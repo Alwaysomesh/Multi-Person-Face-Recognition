@@ -2,7 +2,7 @@
 
 Doc Fusion is a Flask-based web application that uses Dlib and OpenCV to perform face recognition on uploaded video files or live IP camera streams. It also allows email alerts with detection summaries using Gmail APIs.
 
-## Previeew
+## Preview
 
 ![Screenshot](https://github.com/Alwaysomesh/Multi-Person-Face-Recognition/blob/main/Screenshot%202025-04-23%20142719.png)
 
